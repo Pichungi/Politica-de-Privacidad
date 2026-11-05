@@ -3,7 +3,7 @@
 
 **Última actualización:** [04/11/2026]
 
-[NOMBRE DE LA APP] (en adelante, "la app") es un juego de solitario Spider para Android, desarrollado por [TU NOMBRE O ESTUDIO] (en adelante, "el desarrollador"). Esta política explica qué información se trata cuando usas la app y qué opciones tienes.
+ Es un juego de solitario Spider para Android, desarrollado por Settingzuela. Esta política explica qué información se trata cuando usas la app y qué opciones tienes.
 
 - Nombre del paquete: com.settingzuela.spidersolitario
 - Contacto:lavierarenato@gmail.com
